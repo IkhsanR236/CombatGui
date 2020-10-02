@@ -1,0 +1,8 @@
+main: me.IcanR.CombatGui.Main
+name: CombatGui
+version: 1.0
+author: IcanR
+api-version: 1.15
+
+commands:
+  Combat:
